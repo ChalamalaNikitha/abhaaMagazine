@@ -24,3 +24,13 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+.themeColor{
+  color:#9b2c89
+
+}
+.backgroundColor{
+  background-color:#9b2c89 ;
+}
+.websiteBackground{
+  background-color: #fdf7fc;
+}
