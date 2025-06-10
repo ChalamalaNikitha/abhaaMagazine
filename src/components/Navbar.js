@@ -9,7 +9,7 @@ export default function Navbar() {
 
   return (
     <nav className="websiteBackground shadow-sm border-b sticky top-0 z-50">
-      <div className="container mx-auto py-4 flex justify-between items-center">
+      <div className="px-4 sm:px-6 md:px-8 lg:px-16 py-4 flex justify-between items-center">
         {/* Left: Logo + Nav */}
         <div className="flex items-center space-x-6">
           <img
