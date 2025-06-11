@@ -15,10 +15,11 @@ export default function Home() {
       <Navbar />
       <HeroSlider />
       <MonthlySection />
+            <FeaturedNewsLayout />
+
       <SecondSection />
 
       <CategoriesGrid />
-      <FeaturedNewsLayout />
       <CoverStories />
       {/* <LatestNews /> */}
       <NewsletterCTA />
